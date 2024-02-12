@@ -1,0 +1,5 @@
+ 1 maaaaaaaag     128850
+ 2    takashi     100000
+ 3          F      76830
+ 4       nome      67970
+ 5     takuto      66330
